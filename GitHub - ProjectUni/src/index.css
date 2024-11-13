@@ -1,0 +1,55 @@
+/* De maneira geral*/
+body {
+  font-family: "K2D", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+  color: #C1C27C;
+  background-color: #2d2d2d;
+  background-image: url('/img/cosmos-1853491_1280 1.png');
+  background-size: 1320px 820px;
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-blend-mode: darken;
+  
+}
+
+.row{
+  margin:0;
+}
+
+.container{
+  padding: 70px ;
+}
+
+/*Barra de navegação*/
+header, .navbar{
+  background-color: #37383D;
+  
+}
+
+#nav-container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.navbar-brand{
+  padding: 0;
+  color:#C1C27C;
+  margin-left: 20px;
+}
+
+.navbar-brand:hover, #navbar-links a{
+  color: #C1C27C;
+  margin-right: 30px;
+}
+
+ .navbar-nav {
+  padding: 1rem .8rem;
+  margin-right: 25%;
+  
+}
+
+
+
+
